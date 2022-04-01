@@ -46,13 +46,11 @@
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CodeWhiteWeb&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START 
  [10 must have 3rd party services for all websites](https://dev.to/codewhiteweb/10-must-have-3rd-party-services-for-all-websites-584m)
   
  [Best Google Fonts for your website](https://dev.to/codewhiteweb/best-google-fonts-for-your-website-3e5k)
-<!-- BLOG-POST-LIST:END
+ BLOG-POST-LIST:END
 
 ➡️ [more blog posts...](https://dev.to/codewhiteweb)
 
