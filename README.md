@@ -18,7 +18,7 @@
 # 💫About Me :
 🔭 I’m currently working on my github page : https://github.com/ndt7
   
-🌱 I’m currently learning : .Net core
+🌱 I’m currently learning : .Net core, Python
 
   👯 I’m looking to collaborate on my webpage
 
