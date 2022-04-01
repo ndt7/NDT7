@@ -5,7 +5,7 @@
 -->
 
 <h3 align="center">
-  Welcome to Code White's profile!
+  Welcome to Code White's profile NDT7!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
@@ -18,11 +18,11 @@
 # 💫About Me :
 🔭 I’m currently working on my github page : https://github.com/ndt7
   
-🌱 I’m currently learning : Node.js
+🌱 I’m currently learning : .Net core
 
   👯 I’m looking to collaborate on my webpage
 
-  🤔 I’m Not looking for help
+  <!--🤔 I’m Not looking for help-->
 
   💬 Ask me about for any help
 
