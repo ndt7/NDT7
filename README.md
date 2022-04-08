@@ -30,7 +30,7 @@
   Mail me at "ndt7.vn@gmail.com".
   
    🌐 Youtube:
-  https://www.youtube.com/channel/UCS8Sy0g-8QxejHGS03HEhZw/playlists
+    https://www.youtube.com/channel/UCS8Sy0g-8QxejHGS03HEhZw/playlists
 
 
 ## 🌐Socials
