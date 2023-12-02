@@ -28,8 +28,6 @@
 
   📫 How to reach me:  
   Mail me at "ndt7.vn@gmail.com".
-  fb https://www.facebook.com/thinhnguyen.me
-  
    🌐 Youtube:
     https://www.youtube.com/channel/UCS8Sy0g-8QxejHGS03HEhZw/playlists
 
