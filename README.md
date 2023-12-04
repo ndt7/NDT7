@@ -28,9 +28,6 @@
 
   📫 How to reach me:  
   Mail me at "ndt7.vn@gmail.com".
-   🌐 Youtube:
-    https://www.youtube.com/channel/UCS8Sy0g-8QxejHGS03HEhZw/playlists
-
 
 ## 🌐Socials
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)]() 
